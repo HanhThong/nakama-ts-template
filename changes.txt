@@ -1,0 +1,2 @@
+--------------------- Add unreleased candidates above ---------------------
+v0.0.1, 2022-10-08 -- Init nakama ts template
